@@ -1,0 +1,15 @@
+C:\projects\DkvasIntroduction-to-programming-languages\Introduction-to-programming-languages\HT1\bin\Debug\net6.0\HT1.exe
+C:\projects\DkvasIntroduction-to-programming-languages\Introduction-to-programming-languages\HT1\bin\Debug\net6.0\HT1.deps.json
+C:\projects\DkvasIntroduction-to-programming-languages\Introduction-to-programming-languages\HT1\bin\Debug\net6.0\HT1.runtimeconfig.json
+C:\projects\DkvasIntroduction-to-programming-languages\Introduction-to-programming-languages\HT1\bin\Debug\net6.0\HT1.dll
+C:\projects\DkvasIntroduction-to-programming-languages\Introduction-to-programming-languages\HT1\bin\Debug\net6.0\HT1.pdb
+C:\projects\DkvasIntroduction-to-programming-languages\Introduction-to-programming-languages\HT1\obj\Debug\net6.0\HT1.csproj.AssemblyReference.cache
+C:\projects\DkvasIntroduction-to-programming-languages\Introduction-to-programming-languages\HT1\obj\Debug\net6.0\HT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\DkvasIntroduction-to-programming-languages\Introduction-to-programming-languages\HT1\obj\Debug\net6.0\HT1.AssemblyInfoInputs.cache
+C:\projects\DkvasIntroduction-to-programming-languages\Introduction-to-programming-languages\HT1\obj\Debug\net6.0\HT1.AssemblyInfo.cs
+C:\projects\DkvasIntroduction-to-programming-languages\Introduction-to-programming-languages\HT1\obj\Debug\net6.0\HT1.csproj.CoreCompileInputs.cache
+C:\projects\DkvasIntroduction-to-programming-languages\Introduction-to-programming-languages\HT1\obj\Debug\net6.0\HT1.dll
+C:\projects\DkvasIntroduction-to-programming-languages\Introduction-to-programming-languages\HT1\obj\Debug\net6.0\refint\HT1.dll
+C:\projects\DkvasIntroduction-to-programming-languages\Introduction-to-programming-languages\HT1\obj\Debug\net6.0\HT1.pdb
+C:\projects\DkvasIntroduction-to-programming-languages\Introduction-to-programming-languages\HT1\obj\Debug\net6.0\HT1.genruntimeconfig.cache
+C:\projects\DkvasIntroduction-to-programming-languages\Introduction-to-programming-languages\HT1\obj\Debug\net6.0\ref\HT1.dll
